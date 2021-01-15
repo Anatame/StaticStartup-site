@@ -1,2 +1,2 @@
 # StaticStartup-site
-Static startup site using html-css.
+Static startup landing page site using html-css.
